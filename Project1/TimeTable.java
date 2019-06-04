@@ -3,9 +3,6 @@ import static java.lang.Integer.MAX_VALUE;
 import java.io.*;
 import java.util.*;
 
-
-
-
 public class TimeTable {
     public static void main(String args[]) {
         Scanner x = new Scanner(System.in);
@@ -25,16 +22,27 @@ public class TimeTable {
                }
             }
             
+            
+            Comparator<myCourse> comparator = new sortByPriority();
+            courses.sort(new sortByPriority());
+
             for (var i = 0; i < no_course; i++) {
                 courses.get(i).print();
             }
-            // t=t-1;
+
         }
         x.close();
     }
 }
 
-
+class sortByPriority implements Comparator<myCourse>
+{
+    // Used for sorting in ascending order of priority
+    public int compare(myCourse a, myCourse b)
+    {
+        return (a.priority - b.priority);
+    }
+}
 
 
 class slots {
@@ -85,8 +93,8 @@ class myCourse {
         {
             j+=String.format("%d %s %s", time_slot.get(i).time,time_slot.get(i).d_pref,time_slot.get(i).t_pref);
         }
-        System.out.println(info + "\n");
-        System.out.println(j + "\n");
+        System.out.println(info);
+        System.out.println(j );
     }
 
 };
