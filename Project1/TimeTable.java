@@ -23,11 +23,27 @@ public class TimeTable {
             }
             
             
-            Comparator<myCourse> comparator = new sortByPriority();
+            // Comparator<myCourse> comparator = new sortByPriority();
             courses.sort(new sortByPriority());
+            Vector<myCourse> saturday=new Vector();
+            Vector<week> course_day=new Vector();
+            course_day.add(new week("Monday",1));
+            course_day.add(new week("Tuesday",2));
+            course_day.add(new week("Wednesday",3));
+            course_day.add(new week("Thursday",4));
+            course_day.add(new week("Friday",5));
 
-            for (var i = 0; i < no_course; i++) {
+            int flag=1;
+
+            for (int i = 0; i < no_course; i++) {
                 courses.get(i).print();
+            }
+            while(flag==1){
+                for(int i=0;i<no_course;i++)
+                {
+                    week.sort(new sortByLoad());
+
+                }
             }
 
         }
@@ -43,6 +59,15 @@ class sortByPriority implements Comparator<myCourse>
         return (a.priority - b.priority);
     }
 }
+class sortByLoad implements Comparator<week>
+{
+    //sort week in ascending order of load
+    public int compare(week a,week b){
+        return (a.load-b.load);
+    }
+};
+
+
 
 
 class slots {
@@ -63,6 +88,9 @@ class myCourse {
     int priority;
     int no_slots;
     Vector<slots> time_slot = new Vector();
+    myCourse(){
+
+    }
 
     myCourse(String a, String b, String c, int n) {
 
@@ -95,6 +123,41 @@ class myCourse {
         }
         System.out.println(info);
         System.out.println(j );
+    }
+
+};
+
+//
+// i am working on starting hours if starting hours are occupied or not
+class week{
+    String name;
+    int day_no;
+    Vector<myCourse> times=new Vector();
+    int load;
+    week(String week_name,int n){
+        name=week_name;
+        day_no=n;
+       
+        for(int i=0;i<7;i++)
+        {
+            times.addElement(null);
+        }
+        load=0;
+
+    }
+    public int slot_time(String a){
+        switch (a)
+        {
+            case "0900":return 0;
+            case "1000":return 1;
+            case "1115":return 2;
+            case "1215":return 3;
+            case "0300":return 4;
+            case "0400":return 5;
+            case "0500":return 6;
+        }
+        return -1;
+        
     }
 
 };
