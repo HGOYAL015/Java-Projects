@@ -19,7 +19,7 @@ class myCourse {
 
         if (c.compareToIgnoreCase("NIL")==0){
             priority = MAX_VALUE;
-            System.out.println("sssss");
+            // System.out.println("sssss");
         }
         else{
             priority = Integer.parseInt(c);
@@ -457,6 +457,9 @@ public class TimeTable {
             {
                 course_day.get(a).print();
             }
+            saturday.sort(new sortByCourse());
+            for(int a=0;a<saturday.size();a++)
+            saturday.get(a).print();
         }
         x.close();
     }
@@ -477,6 +480,14 @@ class sortByLoad implements Comparator<week>
         return (a.load-b.load);
     }
 };
+class sortByCourse implements Comparator <myCourse>
+{
+    public int compare(myCourse a,myCourse b)
+    {
+        return a.coursename.compareTo(b.coursename);
+    }
+
+}
 
 
 
