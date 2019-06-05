@@ -1,0 +1,101 @@
+Anand
+Monday
+9:00-10:00 SMAT330C Maths Anand
+Tuesday
+Wednesday
+9:00-11:00 SMAT330C Maths Anand
+11:15-1:15 LAL-Tut LinearAlgebraTut Anand
+3:00-4:00 LAL LinearAlgebra Anand
+4:00-5:00 LAL LinearAlgebra Anand
+Thursday
+Friday
+3:00-4:00 LAL LinearAlgebra Anand
+Saturday
+Arun
+Monday
+Tuesday
+Wednesday
+Thursday
+11:15-1:15 EMIP332C Microprocessor Arun
+Friday
+9:00-10:00 EMIP332C Microprocessor Arun
+3:00-6:00 EMIP332C-Lab MicroprocessorLab Arun
+Saturday
+Jagpreet
+Monday
+Tuesday
+12:15-1:15 IOPS332C OperatingSystem Jagpreet
+3:00-5:00 IOPS332C OperatingSystem Jagpreet
+Wednesday
+Thursday
+3:00-6:00 IOPS332C-Lab OperatingSystemLab Jagpreet
+Friday
+Saturday
+Kala
+Monday
+3:00-6:00 IOOM332C-Lab ObjectOrientedMethodologiesLab Kala
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Manish
+Monday
+11:15-12:15 ITOC330C TheoryOfComputation Manish
+Tuesday
+9:00-11:00 ITOC330C-Tutorial TheoryOfComputationTutorial Manish
+Wednesday
+11:15-1:15 ITOC330C TheoryOfComputation Manish
+Thursday
+Friday
+Saturday
+Pragya
+Monday
+11:15-12:15 PFC ProfessionalCommunication Pragya
+Tuesday
+3:00-5:00 PFC-Lab ProfessionalCommunicationLab Pragya
+Wednesday
+Thursday
+Friday
+Saturday
+Pramod
+Monday
+Tuesday
+11:15-1:15 PHY-Lab PhysicsLab Pramod
+Wednesday
+Thursday
+9:00-11:00 PHY Physics Pramod
+Friday
+9:00-11:00 PHY-Tut PhysicsTutorial Pramod
+Saturday
+Shashikant
+Monday
+12:15-1:15 POM PrinciplesOfManagement Shashikant
+3:00-5:00 POM-Tut PrinciplesOfManagementTut Shashikant
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunny
+Monday
+Tuesday
+9:00-11:00 FEE-Lab FeeLab Sunny
+Wednesday
+Thursday
+3:00-5:00 FEE Fee Sunny
+Friday
+11:15-1:15 FEE-Tut FeeTut Sunny
+Saturday
+Vyas
+Monday
+9:00-11:00 ITP Intro2Programming Vyas
+Tuesday
+Wednesday
+9:00-11:00 ITP-Lab Intro2ProgrammingLab Vyas
+3:00-5:00 IOOM332C ObjectOrientedMethodologies Vyas
+Thursday
+10:00-11:00 IOOM332C ObjectOrientedMethodologies Vyas
+11:15-1:15 ITP-Tut Intro2ProgrammingTut Vyas
+Friday
+Saturday

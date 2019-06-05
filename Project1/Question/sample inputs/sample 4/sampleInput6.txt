@@ -1,0 +1,1427 @@
+5
+10
+0yu7k qbflq 9dqen y8jq8 u82ey fdj5e 0iw9n 37p0w mjfqa i9s7d 
+61
+4w8xp 6ox68 0sx63 3m1wv 0j1wo 37ip7 x5s8j tde9h lg0ki ezgne qn1no b7tfz oh0fm bqehl 3e19x klc7t 09c0d wrpz3 kzh0x d8xhx chtan vs26n cz4s1 3m0u1 knmew 2lkcy 7eo8g kuy8w 15wd8 tmnrc ev2za tpt8f 4dsrk rb4hq 6xqgb ba5j4 0wnrl 0wigy 5uy0a yo6vi mq5h1 hp538 nvxow eta7n plwls 1eaw4 sfkfq 5iwps bpuui wavac 0c0ey p51fg 4z5jv lk09t rbva5 cbr07 9gqsy hbqdc f30hq se4x7 3roql 
+180
+1c2wy vk8wq wavac 18 37p0w 3
+1 1234 0400 
+3 1235 090012150500 
+1 34 10001115 
+3q0iq z07k8 7eo8g 126 u82ey 2
+3 5 10000500 
+1 NIL 11150500 
+w2vca e32u1 5iwps 24 37p0w 2
+1 5 NIL 
+2 5 NIL 
+9lv1b vkvy2 lk09t 10 mjfqa 1
+1 NIL 09001115 
+pvexk 1tkym 4dsrk 27 y8jq8 1
+1 NIL NIL 
+8b28v zmje7 eta7n 25 fdj5e 2
+3 35 NIL 
+1 NIL 0300 
+kja0b sfrv4 4w8xp 60 0yu7k 1
+1 23 10001215 
+vpbmz w5lsj plwls 57 i9s7d 3
+3 34 NIL 
+1 4 NIL 
+1 NIL NIL 
+la8gh k9v4u knmew 140 y8jq8 1
+3 1 NIL 
+j1hkc p576v 0wnrl 155 0iw9n 1
+2 NIL 12150400 
+515da 11903 mq5h1 111 0iw9n 2
+1 34 10001115 
+3 34 NIL 
+a1c41 q72q6 3m1wv 112 0iw9n 1
+1 15 12150500 
+noczc bemvu rbva5 92 i9s7d 3
+2 2 NIL 
+1 135 111512150300 
+3 NIL NIL 
+c8hqu 9g81b 0sx63 99 qbflq 3
+1 12 NIL 
+1 24 NIL 
+3 34 100012150300 
+ywuu7 yg8p4 mq5h1 62 i9s7d 2
+2 NIL 09000300 
+1 NIL 0900100003000400 
+o1tvf qdaxh 0j1wo 145 mjfqa 3
+2 12 10000500 
+1 24 0900111503000400 
+1 3 09001000 
+vy7mc i4rf1 lk09t 80 mjfqa 2
+1 34 NIL 
+1 NIL 100004000500 
+vzova ohnst hp538 108 0yu7k 1
+1 NIL NIL 
+1uj2e ucakv se4x7 113 mjfqa 2
+3 NIL NIL 
+1 13 NIL 
+kkh5s op4v9 lk09t 125 fdj5e 2
+1 5 0400 
+1 4 NIL 
+xbxm7 0em5t p51fg 103 0yu7k 3
+2 NIL 11150400 
+1 NIL 100004000500 
+1 1 NIL 
+y73xq ml2vx se4x7 101 fdj5e 1
+3 1345 NIL 
+rcd0r h23jr bpuui 79 0iw9n 1
+3 124 NIL 
+oas14 z2f4a hp538 152 i9s7d 1
+1 25 10000300 
+d3dys n5i83 tmnrc 106 9dqen 1
+3 NIL 1000111512150300 
+4klji r41p4 1eaw4 45 37p0w 1
+3 4 NIL 
+4xqy2 fpwk6 lg0ki 32 i9s7d 2
+1 35 NIL 
+2 125 1115 
+ev1c0 ddnoo qn1no 52 y8jq8 2
+1 34 NIL 
+1 3 1115121504000500 
+xwc2i v7quu ba5j4 29 0yu7k 3
+3 1 090003000500 
+1 145 NIL 
+1 NIL NIL 
+va8it floyy plwls 65 mjfqa 2
+2 4 NIL 
+3 3 090003000500 
+1witp 6bu1u tmnrc 34 0iw9n 2
+1 NIL 11151215 
+3 NIL NIL 
+amfu6 zvj0g tde9h 133 u82ey 2
+3 NIL NIL 
+1 NIL NIL 
+gnxgj ppdhp oh0fm 67 fdj5e 3
+3 34 0900121504000500 
+1 3 09001215 
+3 NIL 12150500 
+r9507 w719o 0wigy 130 y8jq8 1
+1 NIL 11151215 
+oys0y cq46a lk09t 12 fdj5e 3
+2 NIL NIL 
+1 15 09001215 
+1 NIL 10001215 
+s0jxp 166fp kuy8w 22 0iw9n 1
+1 35 0900111503000400 
+lrh0g x0iab se4x7 149 i9s7d 3
+3 5 12150500 
+1 12 12150500 
+1 NIL 0900 
+80g7f jfhm2 lk09t 98 9dqen 3
+3 23 10001215 
+1 NIL NIL 
+2 NIL 0900111503000500 
+730u2 modbp 09c0d 135 mjfqa 2
+3 NIL 0500 
+1 NIL 100003000400 
+xd5fc 0v46k ezgne 3 mjfqa 1
+3 NIL NIL 
+ifa8e wdnvi cz4s1 55 i9s7d 3
+2 3 NIL 
+1 123 NIL 
+1 NIL 09001115121503000400 
+8kv8s qtjqr 09c0d 14 37p0w 1
+1 NIL NIL 
+d4gvz x8q92 0sx63 100 37p0w 2
+1 NIL 090011150500 
+3 NIL NIL 
+up6y0 yo72m ba5j4 5 0yu7k 1
+1 25 0900111504000500 
+6ds0d pbyno 4w8xp 159 0iw9n 1
+1 13 NIL 
+uou65 1k16d lg0ki 63 i9s7d 3
+1 245 11150400 
+3 1 0400 
+1 13 0900100011151215 
+x6ou9 kffqt oh0fm 17 u82ey 3
+2 NIL NIL 
+1 2 090010001115 
+1 1 1000111512150300 
+5neof 7ni1h mq5h1 139 37p0w 3
+1 NIL 0900 
+2 3 090010001215 
+1 1 09000500 
+c1mef poj3d rbva5 95 fdj5e 2
+3 NIL NIL 
+1 12 1000 
+3r4xy b3f8c 5uy0a 114 qbflq 1
+1 NIL 1115 
+feabq amj14 4z5jv 107 37p0w 3
+1 NIL 100003000500 
+1 25 121503000400 
+2 2345 1215 
+unmub qexzk sfkfq 86 qbflq 2
+1 NIL 090011150300 
+2 14 0900 
+mn62o z44gc 3m1wv 61 i9s7d 1
+3 NIL 1215030004000500 
+msds5 7lg15 3roql 174 u82ey 2
+1 23 1115030004000500 
+3 NIL 111503000400 
+bpts8 8xya8 hbqdc 88 y8jq8 2
+1 NIL NIL 
+2 NIL 1215 
+9s457 iwdjy rb4hq 147 mjfqa 1
+1 NIL NIL 
+p94zh rq2ht 0c0ey 102 y8jq8 2
+1 5 0500 
+3 234 NIL 
+udc5d fsu2o qn1no 70 37p0w 1
+1 NIL 0900 
+cw43b rsmiq mq5h1 54 9dqen 1
+1 13 NIL 
+ivlb5 mrbld cz4s1 118 i9s7d 2
+1 4 NIL 
+1 24 0900111512150300 
+uz0hm 2neh6 5iwps 97 fdj5e 1
+1 NIL 090010000400 
+pje63 ch1he 3m1wv 115 y8jq8 1
+3 NIL NIL 
+2nytz c4fpl 0c0ey 6 mjfqa 1
+1 12 NIL 
+4bfgp bqzto tde9h 2 37p0w 1
+1 1 11151215 
+hsfzn 1ourt kuy8w 156 fdj5e 1
+3 NIL 1215 
+1ljt3 3x8cg mq5h1 94 qbflq 2
+2 NIL 0300 
+3 NIL NIL 
+fqbh3 g9bx9 9gqsy 8 y8jq8 3
+1 NIL 1000 
+2 4 090010001115 
+1 2 1215 
+apjx8 d1u1m mq5h1 41 u82ey 1
+3 23 121504000500 
+x9yzl kiq5q 15wd8 110 0yu7k 1
+1 24 0900 
+hkg7y ec43h vs26n 26 9dqen 2
+1 235 09001115121504000500 
+2 NIL 10000400 
+nar9j d2b3m 4dsrk 75 i9s7d 3
+1 1 NIL 
+1 1 111504000500 
+2 5 NIL 
+b0pov zzo35 wavac 122 37p0w 1
+1 NIL 100012150500 
+ssscl qhdew 15wd8 4 qbflq 1
+1 5 NIL 
+hh97o v2tvs 3roql 178 qbflq 2
+2 NIL 11150300 
+1 23 10000500 
+2qfx2 91veh 37ip7 169 u82ey 3
+2 45 NIL 
+3 1 121503000500 
+1 NIL 111503000400 
+4cmdp zlvqj ba5j4 168 0yu7k 1
+1 135 11151215 
+nn6ra i5dgh 0sx63 11 qbflq 1
+3 NIL 09000300 
+zcdop lmhkx chtan 120 y8jq8 3
+3 NIL 121503000400 
+1 NIL 0900 
+1 1345 09001115121504000500 
+e4nj8 3wvrf 5uy0a 91 fdj5e 3
+3 3 090011151215 
+1 5 09000400 
+2 14 NIL 
+kpanz sl123 hp538 138 u82ey 3
+2 NIL 0900111512150300 
+1 35 090012150400 
+1 NIL 1115 
+12o5v 0wz9a hbqdc 78 mjfqa 3
+2 23 0900111512150300 
+3 135 NIL 
+1 NIL 09001215 
+ct77j wv2g5 kuy8w 28 i9s7d 3
+1 NIL 0900111504000500 
+1 NIL 11150300 
+1 234 NIL 
+95b6j f3vzc bqehl 104 37p0w 1
+3 NIL NIL 
+78fnv a03he 0j1wo 71 y8jq8 1
+2 NIL 0900 
+f2ixj ltzxs 1eaw4 136 0iw9n 3
+2 NIL NIL 
+1 2 03000400 
+2 NIL NIL 
+z06zn 7cfyl 6ox68 47 mjfqa 2
+1 4 NIL 
+1 NIL 111503000500 
+5702j 2ww85 nvxow 33 9dqen 2
+1 25 10001215 
+3 235 NIL 
+m5dtc 44akm 6ox68 89 i9s7d 2
+2 NIL NIL 
+1 1 NIL 
+z2rgs svjs9 0j1wo 116 fdj5e 1
+1 NIL 0500 
+ktf9w 20q91 7eo8g 82 i9s7d 3
+1 NIL 111512150300 
+1 5 10000300 
+1 NIL NIL 
+9i6jn x8w0e knmew 76 u82ey 2
+1 NIL 1000030004000500 
+1 NIL 0900 
+frrg9 g3wqr lk09t 163 0iw9n 1
+1 2 111503000500 
+e31i5 r2hlm 6ox68 7 0yu7k 2
+2 NIL NIL 
+2 NIL 1215 
+s4q9j y2i20 cbr07 176 mjfqa 3
+1 NIL NIL 
+1 NIL 10000500 
+1 NIL 1115030004000500 
+qyvt1 1bwd9 oh0fm 123 37p0w 1
+1 NIL 111504000500 
+n8i8z ohwcm 0wigy 23 qbflq 1
+3 235 NIL 
+afawg 92v2x knmew 9 fdj5e 2
+1 135 0900121503000500 
+1 34 NIL 
+zyftc niru6 klc7t 44 qbflq 1
+1 123 1000 
+6vhn5 lighb 0c0ey 37 9dqen 1
+1 5 NIL 
+kbchn 3hn5v ba5j4 128 9dqen 3
+1 NIL 10001115 
+2 25 10000300 
+2 13 NIL 
+hm2dn fthad plwls 157 y8jq8 1
+1 2 NIL 
+xdbv0 9n1g3 tpt8f 93 9dqen 3
+2 NIL NIL 
+1 24 09000300 
+1 4 0400 
+wlcr2 bsg1p 6ox68 162 fdj5e 1
+3 NIL 0300 
+1cias 2p7z7 chtan 81 i9s7d 1
+1 NIL 11151215030004000500 
+jlmpu cqd8c 9gqsy 49 mjfqa 1
+1 134 NIL 
+6ybao jr9l7 kzh0x 21 0iw9n 3
+3 15 NIL 
+1 1 11151215 
+1 4 NIL 
+m76y5 xa075 rbva5 73 0yu7k 2
+2 NIL NIL 
+1 NIL NIL 
+7flul s01yh plwls 90 i9s7d 2
+1 14 100012150300 
+1 NIL 090010000300 
+3j0zp 56mxh tmnrc 19 fdj5e 1
+1 NIL NIL 
+9s79i y9cpn 7eo8g 117 9dqen 3
+2 NIL NIL 
+1 NIL 1000030004000500 
+1 NIL NIL 
+rxozn qnrpj x5s8j 166 mjfqa 3
+1 1234 1215 
+3 NIL 03000400 
+1 NIL 0500 
+mcyia ff4jv 3m0u1 48 fdj5e 2
+1 NIL NIL 
+1 NIL 11150300 
+k17zf qv2on hbqdc 15 u82ey 2
+2 NIL 03000400 
+1 3 NIL 
+2jew6 aequu 6xqgb 58 y8jq8 3
+1 NIL NIL 
+3 45 NIL 
+1 3 NIL 
+fmm20 aro7a knmew 164 qbflq 1
+1 12 NIL 
+8dpns 4s1t3 09c0d 69 0iw9n 2
+3 NIL NIL 
+1 2 12150400 
+8s8sn cuucl tde9h 105 fdj5e 3
+1 NIL 1215 
+1 45 NIL 
+1 NIL NIL 
+vh5if lfbc5 15wd8 153 0yu7k 2
+2 NIL NIL 
+1 4 100003000500 
+b2my0 afm12 7eo8g 13 0yu7k 2
+3 NIL 030004000500 
+1 4 03000400 
+wngfa ymg4b ev2za 134 u82ey 1
+3 134 NIL 
+2ktb9 m67vb lk09t 154 qbflq 1
+3 NIL 1115 
+cwiqj at1lu 3roql 151 i9s7d 2
+1 5 1000 
+1 2 12150400 
+oz0ix 4l3hr nvxow 109 9dqen 3
+2 24 NIL 
+3 1 NIL 
+2 NIL NIL 
+y347r ar9ab x5s8j 165 u82ey 2
+1 NIL 0900100011150500 
+3 245 03000500 
+ccms0 9yux5 yo6vi 53 9dqen 2
+1 NIL 0500 
+1 1 09001000 
+qt6t7 g5xko eta7n 50 9dqen 1
+2 NIL NIL 
+5spo6 g8mv3 9gqsy 16 u82ey 1
+1 1234 NIL 
+qxjf9 6wvqm b7tfz 171 0iw9n 3
+3 24 10001115 
+1 345 111504000500 
+1 NIL NIL 
+vsn7u vj671 7eo8g 160 u82ey 1
+2 NIL 11150400 
+7otdz uhevz vs26n 150 0yu7k 2
+1 NIL 121504000500 
+1 NIL 0400 
+9pl2s 37ofo chtan 137 u82ey 3
+1 45 1000 
+1 12 NIL 
+3 NIL NIL 
+ybkwv k2hin knmew 51 y8jq8 2
+2 125 1000 
+2 345 11150400 
+azhqz jn29m ba5j4 121 i9s7d 1
+1 15 NIL 
+7g445 6jjcy 09c0d 141 mjfqa 3
+1 14 090010001115 
+1 245 NIL 
+1 NIL 11150300 
+qm5je 06wml rbva5 84 y8jq8 3
+1 NIL NIL 
+3 45 03000500 
+2 12 NIL 
+lzkti oe3t5 09c0d 30 fdj5e 3
+1 3 NIL 
+3 NIL NIL 
+1 145 0900111503000500 
+suzrq 0gqln 1eaw4 1 mjfqa 2
+1 NIL NIL 
+2 4 0500 
+5hwf0 nhro9 6xqgb 40 fdj5e 2
+1 24 NIL 
+2 NIL 0400 
+vxdxe 41t4q se4x7 129 y8jq8 2
+1 3 100004000500 
+1 1 1000111503000400 
+s1asn x22dg ba5j4 146 u82ey 3
+2 123 NIL 
+1 3 NIL 
+1 35 1115 
+57f1x lgaqk f30hq 119 u82ey 1
+1 1245 NIL 
+2czjk 46fwf 0j1wo 96 fdj5e 3
+1 1235 10001215 
+1 5 12150500 
+3 25 NIL 
+uuec9 5st8p x5s8j 148 i9s7d 3
+3 NIL 12150400 
+1 15 NIL 
+1 NIL 0900111512150500 
+3q8b5 n13ap 0c0ey 68 i9s7d 2
+3 34 09001115 
+1 4 NIL 
+v6rvo ocld0 kuy8w 72 u82ey 2
+3 3 09000300 
+3 235 NIL 
+xio8w zc6c1 x5s8j 59 qbflq 2
+3 123 1215 
+3 135 NIL 
+p7wui mf89v 3m1wv 0 qbflq 1
+2 NIL 090010001215 
+okic1 d0gu0 4dsrk 127 9dqen 3
+1 12 1115 
+1 34 111512150400 
+1 5 NIL 
+ud66k qfilo se4x7 56 y8jq8 2
+1 1 0500 
+1 NIL 0900121503000500 
+dseij b5dto eta7n 85 0iw9n 1
+2 NIL 0900121503000400 
+qrfc6 9im8m rbva5 175 37p0w 1
+3 35 10001115 
+jg7xy zu4mw x5s8j 64 9dqen 3
+1 24 090010001215 
+1 NIL NIL 
+2 NIL NIL 
+eag2l txf90 oh0fm 167 9dqen 1
+1 NIL NIL 
+sh8pi l2lx5 cz4s1 66 fdj5e 3
+2 NIL 10000500 
+1 13 11151215 
+2 NIL NIL 
+2y7xz i8drt 6ox68 39 0iw9n 1
+2 NIL 100012150500 
+vtzjr did6k 7eo8g 142 u82ey 1
+1 2 04000500 
+425r6 aw35u 5iwps 38 0yu7k 2
+2 245 NIL 
+1 2 NIL 
+xhm0p st1hu 4w8xp 43 9dqen 3
+1 NIL 0900 
+1 NIL NIL 
+1 3 03000400 
+2tkcn r45t2 3m1wv 35 0yu7k 3
+1 NIL 100011150400 
+1 5 0900100011151215 
+3 12 090010001215 
+v3ggj evvac hp538 179 fdj5e 3
+1 NIL 0300 
+1 1 NIL 
+1 NIL NIL 
+70m6b d6edh bqehl 20 0iw9n 1
+1 3 NIL 
+naosh ur1j2 5uy0a 161 qbflq 1
+2 NIL NIL 
+snjzj n8t3n 6ox68 31 37p0w 3
+3 NIL 0400 
+1 NIL 10000300 
+1 NIL NIL 
+7jkbo 60757 hbqdc 36 y8jq8 1
+1 3 12150500 
+zfb8w ycbbw yo6vi 173 i9s7d 3
+1 NIL 11150500 
+1 NIL NIL 
+1 4 0900111512150500 
+vtohh damlk 0wigy 83 0yu7k 1
+1 25 NIL 
+lppxp n4yiw 4w8xp 42 qbflq 3
+1 135 NIL 
+1 45 NIL 
+1 1 090011151215 
+44341 641az b7tfz 143 0yu7k 1
+1 1 NIL 
+d7x58 4vcqz 2lkcy 144 mjfqa 2
+3 NIL 090010001215 
+2 23 0500 
+n355x f8s11 0j1wo 87 y8jq8 3
+2 NIL NIL 
+2 NIL 12150400 
+2 NIL 0900121503000500 
+y35sq yurs7 kzh0x 124 fdj5e 2
+1 135 1215 
+3 245 04000500 
+jiw94 n0a7p 0wigy 132 37p0w 1
+1 125 090010000400 
+hdaoj 0cwzf bpuui 46 9dqen 2
+3 NIL NIL 
+1 4 NIL 
+svat7 7c4hh 0wnrl 77 0yu7k 2
+1 5 NIL 
+1 34 NIL 
+cvxd7 xcgks wrpz3 158 0yu7k 1
+1 23 NIL 
+mhanr 93pk2 qn1no 74 mjfqa 3
+3 245 0400 
+1 13 0900111504000500 
+3 NIL 1000 
+25uxl 8sb3h 0c0ey 170 37p0w 2
+2 NIL NIL 
+1 2 0900100004000500 
+263wn pk7hv kuy8w 172 y8jq8 3
+1 NIL NIL 
+3 3 09000300 
+1 5 NIL 
+jwkg9 gulhm 3m0u1 131 mjfqa 3
+1 345 10001115121504000500 
+1 NIL NIL 
+1 2 03000500 
+oxcor 0e4hp plwls 177 qbflq 3
+1 NIL NIL 
+1 NIL 10000400 
+2 125 NIL 
+19
+vsn7u 1 15 14 NIL 
+vtohh 1 16 5 1000111512150300 
+3r4xy 1 9 1345 12150300 
+25uxl 2 3 NIL 090010000400 
+b2my0 2 2 2 03000400 
+5spo6 1 14 NIL NIL 
+2nytz 1 17 25 NIL 
+eag2l 1 13 NIL 0900121503000500 
+up6y0 1 0 NIL 11150500 
+mn62o 1 11 123 NIL 
+lzkti 3 12 NIL 0900100012150400 
+vtohh 1 10 NIL NIL 
+dseij 1 18 24 NIL 
+y347r 2 1 24 0400 
+3r4xy 1 8 13 NIL 
+ssscl 1 7 NIL NIL 
+3q0iq 1 5 NIL 0300 
+dseij 1 4 NIL NIL 
+2qfx2 3 6 135 NIL 
+7
+x93ej um862 lf21e t62oa 6m49h s6vdz v9yit 
+36
+s0sw4 dk34f vgi4s mynbj i0nfw iabib dilyj puli2 s437c ytbdc 9ypuk 9nva1 xwuo1 xivme 7imn0 p5fgc hy9uc 68lh6 utyos yqtyr ie84a p9q50 v94po jrzc4 tka0n 0f86x 1r8iw 5jdve 8gkvz 4ddsh y02tj 3e7wi 69m9i hvzis t9lwb gicso 
+105
+5yoix gox0a hy9uc 37 v9yit 1
+1 3 NIL 
+mp71p 2vnpn 68lh6 83 x93ej 1
+1 NIL 090003000500 
+ft1sd cgnyv s0sw4 95 v9yit 3
+3 12 0300 
+1 2 11150500 
+3 35 NIL 
+xkoen x4zz8 s437c 28 s6vdz 2
+1 5 0500 
+1 15 0900100011150500 
+ulx4d f82n1 3e7wi 27 6m49h 3
+1 23 10000300 
+1 5 04000500 
+1 NIL NIL 
+72it6 j9c2q jrzc4 23 um862 3
+3 NIL 10000300 
+3 3 NIL 
+1 235 NIL 
+rj1h1 jfwcc iabib 21 t62oa 1
+1 NIL NIL 
+syfnv f3e61 puli2 87 s6vdz 2
+2 123 1000 
+1 3 NIL 
+mrcfg tt122 xwuo1 71 x93ej 3
+1 15 1000 
+1 4 1215 
+1 34 NIL 
+5rff0 21818 hy9uc 20 um862 3
+1 1 09001115 
+1 NIL 111512150400 
+1 NIL 0900111503000500 
+uxbuf 9bk46 hvzis 14 s6vdz 3
+1 NIL 11150400 
+1 2 121504000500 
+3 1345 090012150300 
+8wgiy d1ee3 tka0n 9 lf21e 3
+1 NIL NIL 
+2 3 100011151215 
+1 5 NIL 
+ifyz1 agy8e xwuo1 39 t62oa 3
+1 3 0400 
+3 NIL NIL 
+1 123 NIL 
+hwdyk 00fsd p5fgc 60 t62oa 2
+1 NIL 1000121504000500 
+3 3 NIL 
+arh7x skukw 68lh6 73 um862 2
+1 124 1000111512150300 
+1 NIL NIL 
+1axhq i5a7s 9ypuk 11 lf21e 2
+1 NIL 090012150400 
+2 34 NIL 
+vlkq7 cesak 3e7wi 44 um862 2
+2 NIL NIL 
+1 3 1115 
+q7r6e b5xeg 5jdve 98 v9yit 1
+3 NIL NIL 
+yynld r3omt 3e7wi 36 t62oa 1
+1 NIL NIL 
+riha8 bydua p9q50 10 lf21e 2
+2 NIL 11151215 
+1 23 090010000300 
+rp7vc 86d1z 0f86x 45 v9yit 3
+1 NIL NIL 
+1 13 NIL 
+3 NIL NIL 
+9nqxx ryldw puli2 42 t62oa 3
+3 NIL 0900 
+1 4 090010000300 
+1 234 090004000500 
+kffl4 1ekbs xivme 4 s6vdz 2
+3 125 NIL 
+2 NIL NIL 
+nr532 37j9q hy9uc 40 t62oa 1
+1 34 100011150500 
+zk7r1 x7k59 4ddsh 19 v9yit 3
+1 3 NIL 
+1 NIL NIL 
+3 35 11151215 
+wj8l6 relc9 iabib 41 v9yit 1
+1 5 111503000400 
+byht9 0zgc5 xwuo1 77 lf21e 3
+3 NIL 12150300 
+1 NIL 100012150500 
+1 2 0500 
+37fte 7wg0a t9lwb 7 v9yit 2
+3 3 10000300 
+1 3 NIL 
+jve96 3m52i ytbdc 67 lf21e 1
+1 2 090011150400 
+yejyd q3atb p5fgc 64 s6vdz 2
+1 1 NIL 
+2 NIL 1000 
+giqxy 8tn55 ie84a 69 t62oa 2
+1 NIL 111504000500 
+1 NIL 1115 
+u5blf ttudz 1r8iw 32 um862 1
+3 NIL NIL 
+qy0my 2x38m 9nva1 72 lf21e 2
+1 NIL NIL 
+1 1245 111503000500 
+bypk2 u615z 7imn0 5 s6vdz 3
+1 NIL NIL 
+3 34 090003000400 
+1 NIL NIL 
+jjnob lng8p p9q50 57 t62oa 1
+1 1234 NIL 
+01b5u fgm2u y02tj 0 t62oa 3
+1 NIL 09001115 
+1 1245 100011151215 
+1 NIL 111504000500 
+wf219 c9hb8 jrzc4 62 v9yit 3
+3 134 1115 
+1 NIL 10001115 
+1 NIL NIL 
+883dv gjef7 3e7wi 80 x93ej 3
+1 4 10001115 
+1 124 NIL 
+1 NIL 0300 
+4hlvc 6ozo5 vgi4s 8 s6vdz 2
+3 NIL NIL 
+1 134 NIL 
+3rhdc v9vih 0f86x 38 s6vdz 3
+3 NIL 12150500 
+2 3 10001115 
+3 3 NIL 
+obu51 010lk 4ddsh 66 x93ej 1
+2 3 090012150400 
+9ckxa le7qs hy9uc 12 x93ej 3
+3 1 090011151215 
+1 NIL 12150400 
+1 NIL NIL 
+9oje5 ryuec ie84a 89 x93ej 2
+1 NIL 0400 
+1 135 100003000400 
+5x7mn iunzl 69m9i 91 v9yit 2
+1 NIL NIL 
+1 25 1000 
+m4g4m on3rn p9q50 56 s6vdz 3
+1 NIL NIL 
+1 35 03000400 
+2 125 NIL 
+9ovud 4z3fp yqtyr 59 6m49h 2
+2 NIL 090012150400 
+2 NIL 04000500 
+7w0yb uqnn3 xivme 92 x93ej 2
+2 4 10000400 
+1 35 NIL 
+xcne8 2sjjm yqtyr 94 um862 1
+1 NIL 12150300 
+5l2xj cz0ep iabib 1 um862 3
+2 NIL NIL 
+1 5 NIL 
+1 NIL NIL 
+atblh ctkld i0nfw 75 s6vdz 3
+1 3 090012150400 
+2 NIL NIL 
+1 NIL NIL 
+c6ytp ps0v2 dilyj 17 t62oa 3
+1 NIL 09001215 
+3 2 NIL 
+1 NIL NIL 
+fuwl3 4x5ws ie84a 18 um862 3
+2 245 NIL 
+3 12 111504000500 
+3 12 09001215 
+92tkp j1eme 3e7wi 99 t62oa 2
+1 1245 12150500 
+3 134 0300 
+xf6n4 wuui9 i0nfw 3 lf21e 3
+3 123 NIL 
+2 1 NIL 
+1 NIL 12150300 
+7jnwn e4uhh p5fgc 79 s6vdz 1
+1 NIL 04000500 
+tuor0 5jz4c 8gkvz 29 x93ej 2
+3 NIL NIL 
+2 12 1215 
+ogx51 ibird p5fgc 25 6m49h 2
+2 NIL 0400 
+1 1235 10000400 
+459rh o1lqv 4ddsh 76 s6vdz 2
+2 25 0300 
+1 34 1115 
+es3qa 491zj dilyj 78 lf21e 3
+1 NIL 0400 
+1 NIL NIL 
+1 2 NIL 
+n8iu0 vx68l 69m9i 54 s6vdz 3
+3 12 100011150300 
+3 5 100003000500 
+1 1 111503000500 
+lcmvt 48urd 9ypuk 30 lf21e 2
+2 NIL NIL 
+1 124 NIL 
+v2mqd 7oeh7 ie84a 82 s6vdz 2
+1 NIL 10000500 
+2 5 NIL 
+eihdp 4gb74 9ypuk 31 lf21e 3
+1 NIL 090003000500 
+1 14 111503000500 
+3 NIL 12150300 
+6y2e2 z3b5o vgi4s 51 um862 1
+1 NIL NIL 
+0i3um ib7cp gicso 13 s6vdz 2
+1 45 11150300 
+3 124 090010000500 
+z32s0 e06b4 y02tj 81 v9yit 2
+1 35 111503000500 
+2 123 0900 
+x42nv jc1zh ie84a 84 t62oa 1
+3 NIL NIL 
+8yo38 ibhal 69m9i 49 s6vdz 2
+1 234 10000400 
+3 NIL 1000 
+g93wl vwb36 0f86x 52 um862 2
+3 345 NIL 
+3 34 1115 
+pylop jnfqm dilyj 33 v9yit 2
+3 NIL 10000400 
+1 12 NIL 
+xmyai bjq6c t9lwb 43 x93ej 3
+1 1235 NIL 
+3 NIL 0400 
+3 45 11150300 
+i926h 5ucfc s437c 34 um862 1
+3 35 100011150500 
+6lucn arz97 7imn0 16 t62oa 1
+1 NIL NIL 
+etfyd 21ibi 9ypuk 100 t62oa 3
+1 5 NIL 
+2 NIL 10001215 
+1 1234 NIL 
+lftq3 bk2rs 5jdve 63 lf21e 2
+3 NIL NIL 
+1 NIL 1000 
+uc63p 4w813 1r8iw 88 um862 1
+1 5 NIL 
+z8x8p y22kl hy9uc 61 um862 1
+1 NIL 030004000500 
+jq9nu fpcek hy9uc 48 6m49h 1
+1 NIL NIL 
+8qumu n4q2t 3e7wi 24 lf21e 1
+2 13 0500 
+ihedf 1g2dx p5fgc 55 s6vdz 2
+3 NIL 09001115 
+3 345 09000500 
+tstwx 5s6ks y02tj 50 lf21e 3
+1 2 090010000300 
+1 NIL NIL 
+1 15 11150500 
+ge7d8 p1gag jrzc4 53 t62oa 2
+3 1 NIL 
+1 2 NIL 
+fde1c 7anth ie84a 74 lf21e 2
+2 2 09000400 
+3 25 NIL 
+55tre p7fq2 gicso 46 s6vdz 2
+1 1245 100011150500 
+3 NIL NIL 
+5wgje pip0t tka0n 15 s6vdz 1
+2 2 030004000500 
+lsfc7 m3xpb gicso 96 6m49h 2
+1 NIL NIL 
+1 12 111503000500 
+7b0wa wwto8 hy9uc 85 6m49h 2
+2 NIL NIL 
+1 235 NIL 
+mpaiu 8r28t 0f86x 35 x93ej 1
+3 12 10001215 
+g6tda f28jw xivme 6 x93ej 2
+1 45 NIL 
+2 1 NIL 
+l43hr sqez4 s0sw4 97 v9yit 2
+1 NIL 090011150500 
+1 5 NIL 
+gnrg4 tit40 69m9i 70 6m49h 2
+1 45 11150300 
+3 NIL NIL 
+qeeo4 ivoyf tka0n 68 6m49h 3
+2 NIL NIL 
+2 4 NIL 
+1 45 090010000300 
+zl5wt degzp s437c 65 um862 3
+1 135 09001215 
+1 5 10000300 
+1 NIL 0900111503000500 
+9kkug 2emqj t9lwb 90 lf21e 1
+1 45 111512150500 
+9oo8a ncrtf hvzis 2 x93ej 3
+3 NIL 1000030004000500 
+1 NIL 1000111512150400 
+1 NIL NIL 
+v9v4v p86vp 8gkvz 58 6m49h 1
+3 NIL 0900 
+87jfo 6i97i dk34f 103 t62oa 3
+1 NIL NIL 
+3 235 030004000500 
+1 NIL 090011150300 
+uar51 ufldi t9lwb 22 6m49h 1
+1 NIL 090010001115 
+1bt0b ce9pg 9ypuk 102 s6vdz 1
+1 NIL NIL 
+xeby5 c6m8d dilyj 47 t62oa 1
+2 NIL NIL 
+611hg whjs3 jrzc4 86 6m49h 3
+2 4 1000 
+3 35 NIL 
+3 NIL NIL 
+6j3lw io3gy 8gkvz 93 lf21e 2
+1 5 1215 
+1 4 1000121503000500 
+kq5o0 8pn4w dilyj 26 x93ej 2
+1 345 12150400 
+3 3 NIL 
+nbnxm cz84g 68lh6 101 6m49h 1
+3 13 1115 
+f4reg r8ueh yqtyr 104 6m49h 3
+3 NIL 0900 
+3 45 0500 
+1 3 100003000400 
+11
+zl5wt 3 3 35 090010001215 
+fuwl3 2 7 135 1115 
+yynld 1 0 NIL NIL 
+5x7mn 1 2 5 1215 
+x42nv 1 4 NIL NIL 
+byht9 1 5 4 NIL 
+5wgje 1 9 2 NIL 
+7w0yb 1 8 2 09000400 
+5wgje 1 10 NIL NIL 
+uar51 1 6 23 03000400 
+etfyd 2 1 1 NIL 
+7
+b5hpx 6efvx tghrh 823ml i2o53 et709 91r3b 
+22
+4u57i qfgno mgnvj 0hd14 8pn3a 59im7 techt xfm49 7hy3f ckfc9 bdysj wmmv5 qk8u9 6j3a9 iky71 obuhi 8pm3y eq3u3 1jsq6 m6yhe ikf1f dz9fm 
+63
+mtcm2 tczmk 59im7 15 6efvx 3
+3 NIL 11150300 
+1 5 NIL 
+1 3 10001115 
+zjx4x gzt9n iky71 61 et709 2
+3 234 NIL 
+2 12 NIL 
+34w0a bkrh2 eq3u3 56 tghrh 2
+3 3 1215 
+3 25 NIL 
+w9fo2 pbdia 59im7 30 i2o53 2
+1 25 09001215 
+1 3 NIL 
+imab2 96ip6 qk8u9 62 823ml 3
+2 NIL NIL 
+1 NIL 10000300 
+1 4 NIL 
+myk14 oomzr wmmv5 10 i2o53 3
+1 NIL NIL 
+1 235 NIL 
+1 NIL 11151215 
+mslck 9vbf4 wmmv5 48 823ml 1
+1 245 NIL 
+ioe79 38xot ikf1f 26 91r3b 3
+1 4 NIL 
+1 NIL 0500 
+1 NIL 10001115 
+wecu6 ibfjj ikf1f 17 91r3b 2
+1 4 NIL 
+1 NIL 09001115121504000500 
+xp4dn jtiyd ikf1f 2 6efvx 3
+2 3 NIL 
+1 NIL 0400 
+3 24 090012150400 
+vjhun i564g ikf1f 24 tghrh 2
+1 NIL 0400 
+2 NIL NIL 
+sui8h yw1bo qfgno 7 i2o53 2
+1 3 0900111503000500 
+3 NIL 1000 
+bc69u 8ucmg mgnvj 35 823ml 1
+2 NIL 1000 
+cajip 06olw bdysj 57 b5hpx 3
+1 NIL 1000111512150300 
+1 NIL 0500 
+1 125 11150500 
+69xhq 1k9fk 0hd14 46 823ml 2
+1 NIL NIL 
+1 14 NIL 
+zhnfx lwg2x 59im7 50 i2o53 1
+3 NIL 09001115 
+nn1dh cpjwb ckfc9 49 823ml 1
+1 NIL NIL 
+1b95f yh4vs wmmv5 1 tghrh 3
+1 NIL 11151215 
+1 124 NIL 
+1 NIL 100011151215030004000500 
+nqfb3 6e9jz 8pn3a 14 et709 2
+1 NIL NIL 
+1 5 NIL 
+8dr36 a0kvz bdysj 9 tghrh 1
+3 NIL 090012150400 
+tkitl 5l2sm qk8u9 5 et709 3
+2 1 NIL 
+3 23 NIL 
+3 3 NIL 
+z1n8w n14g0 59im7 44 et709 3
+1 NIL NIL 
+3 NIL 090011150300 
+1 4 NIL 
+zvhxl fv6qc bdysj 13 i2o53 2
+1 235 NIL 
+1 3 11150400 
+ahwof ntry9 xfm49 33 i2o53 1
+2 1 100012150400 
+h3fgk meoqm ikf1f 55 6efvx 1
+1 1 NIL 
+sbnph ea0l2 eq3u3 41 6efvx 1
+2 12 NIL 
+3bk3o og4od 8pn3a 19 6efvx 2
+1 245 NIL 
+3 5 1115 
+2gudn hbqdw techt 6 823ml 1
+3 5 090011151215 
+250hl luunn dz9fm 58 6efvx 2
+1 NIL 12150500 
+1 134 NIL 
+v0vvo gair4 bdysj 32 91r3b 2
+3 NIL 100012150400 
+1 2 090011150400 
+ril4w ojn10 techt 3 b5hpx 1
+1 NIL 0400 
+rzdn8 t7vad iky71 23 et709 3
+2 13 0500 
+1 NIL NIL 
+2 1234 NIL 
+k3wok o9uxp 59im7 59 et709 3
+1 NIL 12150300 
+3 NIL 090011150300 
+2 1245 NIL 
+kex0r w3xr5 qfgno 27 b5hpx 2
+1 3 NIL 
+1 NIL 0900100012150400 
+5ga4b kbfsl obuhi 29 et709 2
+1 12 09001215 
+2 NIL 090010000500 
+mmnxn jpizb 8pm3y 42 6efvx 2
+2 NIL 0400 
+1 25 NIL 
+fa4lu y4rqj mgnvj 52 91r3b 2
+2 NIL 0400 
+3 NIL 0500 
+jlqro 21mzh ckfc9 47 et709 1
+1 2 12150300 
+a2qpj 136pl m6yhe 21 823ml 1
+1 NIL 0900100012150400 
+u9cgd jnuks obuhi 34 b5hpx 2
+1 NIL 09000500 
+1 NIL 1000111512150500 
+7hkjr x9292 8pm3y 25 b5hpx 1
+2 NIL 0900111504000500 
+ass7g 4ij45 m6yhe 16 6efvx 2
+1 5 090011150500 
+2 245 0900100003000400 
+0tm05 xrxhm mgnvj 43 tghrh 2
+3 2 090011150500 
+1 1 NIL 
+o1mpp pwkqk xfm49 11 91r3b 2
+2 35 100011150500 
+1 1 1215 
+wrsis aq4t4 8pm3y 22 b5hpx 1
+1 3 09000400 
+qd1c9 734qh 8pn3a 28 tghrh 3
+1 NIL 0500 
+3 NIL 111512150300 
+3 NIL NIL 
+dospe d090b mgnvj 12 i2o53 3
+2 NIL 09001115 
+3 14 100011150400 
+1 NIL NIL 
+xt2ai o670f eq3u3 51 823ml 1
+1 NIL NIL 
+bmtd7 tt9yu 8pm3y 60 i2o53 2
+1 NIL NIL 
+1 235 NIL 
+pitxc p1zd3 eq3u3 36 6efvx 1
+3 1 0400 
+808wu 1bmyh 1jsq6 4 tghrh 3
+2 5 090012150400 
+1 13 10000500 
+2 5 NIL 
+1itue 6lt8f 0hd14 53 b5hpx 2
+1 3 030004000500 
+3 12 100011150300 
+p0xg6 qcrlc qfgno 39 823ml 1
+1 NIL 090003000500 
+y8cy6 ggjq3 8pn3a 0 b5hpx 3
+1 NIL NIL 
+1 NIL 111504000500 
+1 NIL NIL 
+jxipu nl89n 8pn3a 45 tghrh 3
+1 2 111503000500 
+1 NIL NIL 
+2 NIL NIL 
+4drcw e220p qfgno 54 et709 2
+1 NIL 121504000500 
+1 NIL 09001000111503000500 
+79sxo w0npc eq3u3 18 et709 1
+3 NIL 11150400 
+974k9 yw40g techt 40 823ml 2
+1 2345 NIL 
+1 NIL 090012150400 
+wnxe1 mpx7q mgnvj 31 tghrh 1
+1 NIL NIL 
+m7m5r fbih6 ikf1f 20 b5hpx 2
+1 NIL NIL 
+3 NIL NIL 
+q8g5m wbo69 bdysj 37 6efvx 2
+2 1345 1115 
+1 235 111512150500 
+wwoa2 meukf 1jsq6 8 823ml 1
+1 34 NIL 
+zlusr ak3od 7hy3f 38 et709 3
+1 5 1215 
+1 3 1115 
+3 23 NIL 
+7
+kex0r 2 6 NIL 10001115 
+imab2 3 1 NIL 121504000500 
+myk14 3 5 NIL 100011150300 
+zvhxl 2 3 3 0900 
+2gudn 1 0 25 0400 
+ass7g 1 2 NIL NIL 
+7hkjr 1 4 1 NIL 
+8
+ngfel 06s07 aonvn sdynx q5ecl 3mepk ivhpg z1cnv 
+30
+s6afh 2rntm 36p8a 6unq6 ufnhf 1g0qk izf7b b5wqf kfhky 7t5vi ynyku q1aa0 cbkex abvot krj5p 9l32g q3vdu vhsnv xjw2r vkvc8 astpy zcowg 97r27 vpdzv xb4gd ubkxh ptk7m odk59 41tlj qy576 
+88
+9wbzk svjxl ufnhf 44 ngfel 3
+1 5 NIL 
+3 NIL 09001115 
+1 45 NIL 
+3oof9 cxm1m odk59 41 3mepk 1
+1 3 09001000121503000500 
+ch734 ummpn xb4gd 24 q5ecl 1
+3 1 1000121503000400 
+4pomk u0zsf ynyku 26 06s07 2
+1 15 NIL 
+1 4 NIL 
+bjser ejtbu izf7b 80 ivhpg 1
+1 NIL NIL 
+ar3t6 a7m7l s6afh 65 q5ecl 1
+1 5 NIL 
+y7rdf npr0m krj5p 3 q5ecl 2
+3 2 NIL 
+3 NIL 04000500 
+jat72 sqqbq 97r27 39 3mepk 1
+2 15 0900100011150500 
+12fqs 9g5ry ynyku 69 aonvn 2
+1 NIL NIL 
+1 NIL NIL 
+60n2x 8nv9t q3vdu 70 ivhpg 2
+1 134 1215 
+1 NIL 0900100012150400 
+sr01p 61nee xjw2r 55 3mepk 3
+1 145 11150500 
+2 13 09001000111503000500 
+1 NIL NIL 
+xdw5w z3ygm zcowg 73 q5ecl 2
+3 125 NIL 
+3 235 09001215 
+6la1s 4uems xjw2r 53 3mepk 3
+1 NIL NIL 
+1 1 NIL 
+3 1234 090010000300 
+ww3ei ctobt 36p8a 10 3mepk 2
+3 NIL NIL 
+1 NIL NIL 
+93s9q 05xiy zcowg 54 sdynx 3
+2 NIL NIL 
+1 23 11150300 
+3 3 NIL 
+5t2tx qxkrw 9l32g 4 3mepk 2
+3 NIL 121503000400 
+2 NIL NIL 
+i3g9f cdi3q b5wqf 29 z1cnv 2
+1 NIL 09001000 
+1 NIL NIL 
+1uj6b fw15u vhsnv 78 3mepk 2
+2 NIL NIL 
+1 5 09001000111503000500 
+ichl5 c0ho0 36p8a 83 ivhpg 3
+1 25 NIL 
+1 NIL NIL 
+3 NIL 04000500 
+6kqf8 smgyo xb4gd 60 q5ecl 2
+1 NIL NIL 
+1 4 NIL 
+lb4ie zl79x ynyku 42 06s07 2
+1 23 11150400 
+1 2345 NIL 
+kb4dq 3qmhd abvot 35 q5ecl 3
+1 14 100012150400 
+3 125 NIL 
+3 NIL NIL 
+qkiet h2w8z q3vdu 17 sdynx 3
+1 23 NIL 
+1 35 0900100011151215 
+1 35 0400 
+s39ha 6grk7 ptk7m 76 ngfel 1
+1 1 NIL 
+yopkf g2pk8 7t5vi 40 aonvn 2
+1 234 NIL 
+3 NIL 090010000300 
+qc033 nmr51 zcowg 33 q5ecl 3
+1 235 09001000111512150300 
+3 NIL 0300 
+1 NIL 1215 
+n72dm u32j0 s6afh 22 ngfel 2
+1 234 NIL 
+3 12 NIL 
+pl0mm hzmd3 97r27 63 z1cnv 1
+2 3 NIL 
+3afge oaipq ptk7m 56 z1cnv 3
+1 2 NIL 
+1 NIL NIL 
+1 24 0400 
+wr3no 44lct xb4gd 23 3mepk 2
+3 1345 NIL 
+3 14 NIL 
+9org5 1ojsf ubkxh 68 sdynx 2
+1 2 1000 
+1 NIL NIL 
+d1iit 71lvf izf7b 52 ngfel 3
+1 15 0300 
+1 NIL NIL 
+3 1235 11151215 
+iqoy6 cwven ptk7m 48 z1cnv 3
+1 NIL 0900 
+1 12 111503000500 
+1 5 11150400 
+xspki ughv5 s6afh 13 z1cnv 3
+3 NIL NIL 
+1 NIL NIL 
+2 14 NIL 
+pla5b 5xdjw 41tlj 9 aonvn 1
+2 NIL 111503000500 
+ja2s3 cm7dn vpdzv 49 ngfel 1
+2 NIL 1215 
+ag5st ss1rb 9l32g 34 z1cnv 2
+2 NIL 10000400 
+3 25 1000 
+mmpmy bsbwi vpdzv 59 z1cnv 2
+3 NIL NIL 
+2 14 090012150500 
+2h1lm 9binu 36p8a 31 06s07 3
+3 NIL 03000500 
+1 NIL 1115 
+1 NIL 11150500 
+mr3da wg1mv odk59 30 ngfel 3
+1 NIL 0500 
+2 2 10001115 
+1 NIL 0300 
+idikd jnr2e krj5p 82 06s07 3
+1 NIL 0900100004000500 
+1 245 NIL 
+1 34 0300 
+fhh5p 2exuz 9l32g 11 ngfel 2
+1 NIL NIL 
+1 13 NIL 
+0jgqq 1nm9j cbkex 47 ngfel 3
+1 NIL NIL 
+2 1 12150400 
+1 NIL 0500 
+o4hfh 4elyp 41tlj 12 3mepk 2
+3 NIL 090010000300 
+3 124 09001115 
+um8zw rncuj abvot 51 aonvn 2
+1 NIL 1215 
+2 1234 NIL 
+6plp1 z8wtr 6unq6 72 3mepk 2
+1 1 NIL 
+2 4 NIL 
+52bz5 22qsh kfhky 71 sdynx 3
+2 NIL 12150500 
+1 13 NIL 
+3 NIL 100012150500 
+xomd5 hpcb1 ufnhf 7 ngfel 2
+1 NIL NIL 
+1 1245 10000400 
+5n70e 7jobf 36p8a 1 3mepk 2
+3 123 090004000500 
+1 12 09000500 
+rgerw 6ers0 xjw2r 36 q5ecl 1
+1 14 NIL 
+cwzrb cp176 2rntm 66 ivhpg 2
+1 NIL NIL 
+3 NIL NIL 
+30e85 cje2w ufnhf 28 z1cnv 3
+1 13 NIL 
+3 13 0400 
+1 1 NIL 
+mscsd 6jn0n kfhky 79 aonvn 1
+1 5 NIL 
+msfbh dymh5 xb4gd 85 3mepk 2
+2 45 NIL 
+1 NIL NIL 
+nl4u5 eiz9y 6unq6 62 06s07 1
+3 NIL 0300 
+nrskk fzcol vhsnv 46 q5ecl 3
+1 NIL NIL 
+1 35 11150400 
+2 2 1000121504000500 
+v7k8x q76cd 41tlj 64 q5ecl 1
+1 NIL NIL 
+7oyvk 2hl8z 41tlj 27 q5ecl 2
+1 5 NIL 
+1 234 NIL 
+dt6cw fk8p0 vpdzv 75 aonvn 1
+2 2 111512150500 
+fbxky g7naz ynyku 67 3mepk 2
+3 NIL 100003000400 
+2 NIL 100004000500 
+axlmo dlidn vpdzv 38 sdynx 3
+1 15 10000500 
+1 25 NIL 
+1 NIL 1115 
+ocq0m diebz 9l32g 21 q5ecl 2
+1 NIL 100003000400 
+1 5 NIL 
+ovcfy nlamq 36p8a 86 06s07 1
+1 3 09000400 
+iw57n pk8eh 97r27 8 3mepk 3
+3 45 11150500 
+1 NIL NIL 
+3 NIL NIL 
+1ej90 4t9rh zcowg 74 3mepk 1
+2 2 0900100011150300 
+0i0nt fyvl0 36p8a 0 3mepk 2
+1 234 NIL 
+1 NIL NIL 
+z7hb3 dny3s 1g0qk 37 z1cnv 1
+1 NIL NIL 
+k3je4 betyw vhsnv 19 aonvn 2
+3 234 NIL 
+1 23 100012150400 
+8j2v3 atu0q vhsnv 43 aonvn 2
+1 34 NIL 
+1 NIL 1215 
+sj3qa 3zt8n odk59 25 ngfel 3
+2 NIL 1000111504000500 
+1 NIL 0900111503000400 
+1 NIL 111512150400 
+7aou0 2wjd0 9l32g 15 aonvn 1
+1 245 090010000300 
+kt5ir ezime 36p8a 61 ivhpg 3
+3 NIL 1215 
+3 123 NIL 
+3 NIL NIL 
+wpqg3 qgwo5 vpdzv 18 ngfel 2
+1 NIL 11150300 
+2 NIL 0400 
+idl4h pft8f xjw2r 84 ngfel 3
+3 235 10000300 
+1 3 NIL 
+1 1 NIL 
+6p3xe hp5g7 6unq6 50 sdynx 1
+3 134 11150500 
+28ta6 z3fg4 ubkxh 2 aonvn 2
+2 NIL NIL 
+1 NIL NIL 
+vs88v c6n4p vkvc8 5 3mepk 2
+1 234 09001000111503000500 
+1 13 NIL 
+0349o knny3 2rntm 57 q5ecl 2
+2 NIL 0900 
+1 NIL NIL 
+pbfxd es4cn 2rntm 81 06s07 3
+3 NIL 1000111512150300 
+1 NIL 10001115 
+2 15 1000 
+tuu9u n20q2 b5wqf 20 ngfel 3
+1 NIL NIL 
+1 NIL NIL 
+1 45 10000400 
+eo1o5 g00u0 abvot 45 q5ecl 1
+1 2 NIL 
+tz8yr vrg6x ptk7m 32 sdynx 2
+1 NIL 1115 
+1 NIL NIL 
+kfen0 gos2n 36p8a 14 aonvn 1
+2 145 1115 
+dsiyt 9ald5 vhsnv 16 06s07 1
+1 1 NIL 
+78bi8 l1xwn ufnhf 6 sdynx 2
+1 3 100011150400 
+1 NIL 100011151215 
+dbiwi uy7gq ubkxh 77 z1cnv 2
+1 NIL NIL 
+1 5 1215 
+6oo7z fed7v 6unq6 58 z1cnv 2
+2 15 NIL 
+2 NIL 09000300 
+tlzsw bcc5t odk59 87 z1cnv 2
+1 NIL NIL 
+1 25 111512150300 
+9
+xomd5 1 4 NIL NIL 
+ja2s3 1 0 3 1115 
+6p3xe 1 1 NIL 10000500 
+12fqs 2 3 3 0500 
+wpqg3 1 7 12 NIL 
+y7rdf 2 6 1 NIL 
+xomd5 1 5 1 NIL 
+mr3da 3 2 135 NIL 
+7aou0 1 8 NIL 0400 
+2
+5zwko ldmpa 
+5
+es4g2 71t73 6jqlc 425ga 4dpmr 
+14
+9jnq2 exv3n 71t73 0 5zwko 1
+1 NIL NIL 
+b6oca 80wqy 425ga 4 ldmpa 3
+2 4 12150500 
+1 34 0400 
+2 1 NIL 
+ayylo 6x45v 6jqlc 12 ldmpa 3
+2 12 03000400 
+1 134 1115 
+1 13 0300 
+dy5pr 0j7t4 71t73 6 ldmpa 3
+3 NIL 090012150300 
+2 NIL 100003000500 
+1 14 NIL 
+m854j txiyo 4dpmr 3 ldmpa 1
+1 NIL NIL 
+lx7ct 69j46 71t73 2 5zwko 1
+1 23 NIL 
+x13ei nbfzb 425ga 13 ldmpa 2
+3 NIL 111512150300 
+1 NIL NIL 
+gf9p3 1d789 71t73 8 5zwko 3
+2 NIL 0300 
+2 NIL 090011150400 
+1 5 0900100011150400 
+o8jlh wbs9h 71t73 7 5zwko 1
+2 5 09001000111512150500 
+2rnjs gwuho 425ga 9 ldmpa 2
+2 5 03000400 
+1 2345 12150300 
+9pxi0 biy3x es4g2 10 5zwko 3
+1 1235 0500 
+2 12 0500 
+3 1 1000 
+axkpa buuoj 6jqlc 11 ldmpa 3
+2 5 100003000500 
+1 1 10000400 
+1 NIL NIL 
+ibbts 9xtyd 71t73 1 ldmpa 2
+3 NIL NIL 
+1 NIL NIL 
+6bfw3 vj52x 4dpmr 5 5zwko 1
+1 5 1115 
+2
+o8jlh 1 1 5 03000500 
+axkpa 3 0 NIL NIL 

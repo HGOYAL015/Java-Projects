@@ -1,0 +1,46 @@
+First
+Monday
+9:00-11:00 ITP Intro2Programming Vyas
+3:00-5:00 POM-Tut PrinciplesOfManagementTut Shashikant
+Tuesday
+9:00-11:00 FEE-Lab FeeLab Sunny
+11:15-1:15 PHY-Lab PhysicsLab Pramod
+3:00-5:00 PFC-Lab ProfessionalCommunicationLab Pragya
+5:00-6:00 PFC ProfessionalCommunication Pragya
+Wednesday
+9:00-11:00 ITP-Lab Intro2ProgrammingLab Vyas
+11:15-1:15 LAL-Tut LinearAlgebraTut Anand
+3:00-4:00 LAL LinearAlgebra Anand
+4:00-5:00 LAL LinearAlgebra Anand
+Thursday
+9:00-11:00 PHY Physics Pramod
+11:15-1:15 ITP-Tut Intro2ProgrammingTut Vyas
+3:00-5:00 FEE Fee Sunny
+Friday
+9:00-11:00 PHY-Tut PhysicsTutorial Pramod
+11:15-1:15 FEE-Tut FeeTut Sunny
+3:00-4:00 LAL LinearAlgebra Anand
+4:00-5:00 POM PrinciplesOfManagement Shashikant
+Saturday
+Second
+Monday
+11:15-12:15 ITOC330C TheoryOfComputation Manish
+3:00-6:00 IOOM332C-Lab ObjectOrientedMethodologiesLab Kala
+Tuesday
+9:00-11:00 ITOC330C-Tutorial TheoryOfComputationTutorial Manish
+11:15-1:15 IOOM332C ObjectOrientedMethodologies Vyas
+3:00-5:00 IOPS332C OperatingSystem Jagpreet
+Wednesday
+9:00-11:00 SMAT330C Maths Anand
+11:15-1:15 ITOC330C TheoryOfComputation Manish
+4:00-6:00 IOOM332C ObjectOrientedMethodologies Vyas
+5:00-6:00 IOPS332C OperatingSystem Jagpreet
+Thursday
+10:00-11:00 IOOM332C ObjectOrientedMethodologies Vyas
+11:15-1:15 EMIP332C Microprocessor Arun
+3:00-6:00 IOPS332C-Lab OperatingSystemLab Jagpreet
+Friday
+9:00-10:00 EMIP332C Microprocessor Arun
+10:00-11:00 SMAT330C Maths Anand
+3:00-6:00 EMIP332C-Lab MicroprocessorLab Arun
+Saturday
