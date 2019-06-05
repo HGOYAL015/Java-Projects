@@ -108,10 +108,10 @@ public class TimeTable {
                         // System.out.println(day_length);
                         // Vector<week> temporary=new Vector();
                         int pri=1;
+                        int time_start=0;
 
-                        while(flag==1 && pri==1)
+                        while(flag==1 && pri==1 && time_start<Time_pref.length())
                         {
-                            int time_start=0;
 
                             for(int j=0;j<day_length&&flag==1;j++)
                             {
@@ -127,7 +127,7 @@ public class TimeTable {
                                     if(temp2.times.get(time_no)==null)
                                     {
                                         flag=0;
-                                        temp2.set_time(courses.get(i),time_no);
+                                        temp2.set_time(courses.get(i),time_no,s);
                                         temp2.update_load();
 
                                     }
@@ -145,8 +145,8 @@ public class TimeTable {
                                             if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null)
                                             {
                                                 flag=0;
-                                                temp2.set_time(courses.get(i),time_no);
-                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no,s);
+                                                temp2.set_time(courses.get(i),time_no+1,s); // it has to be changed later
                                                 temp2.update_load();
 
                                             }
@@ -163,9 +163,9 @@ public class TimeTable {
                                             if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null&&temp2.times.get(time_no+2)==null)
                                             {
                                                 flag=0;
-                                                temp2.set_time(courses.get(i),time_no);
-                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
-                                                temp2.set_time(courses.get(i),time_no+2); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no,s);
+                                                temp2.set_time(courses.get(i),time_no+1,s); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no+2,s); // it has to be changed later
                                                 temp2.update_load();
 
 
@@ -208,7 +208,7 @@ public class TimeTable {
                                     if(temp2.times.get(time_no)==null)
                                     {
                                         flag=0;
-                                        temp2.set_time(courses.get(i),time_no);
+                                        temp2.set_time(courses.get(i),time_no,s);
                                         temp2.update_load();
 
                                     }
@@ -226,8 +226,8 @@ public class TimeTable {
                                             if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null)
                                             {
                                                 flag=0;
-                                                temp2.set_time(courses.get(i),time_no);
-                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no,s);
+                                                temp2.set_time(courses.get(i),time_no+1,s); // it has to be changed later
                                                 temp2.update_load();
 
                                             }
@@ -244,9 +244,9 @@ public class TimeTable {
                                             if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null&&temp2.times.get(time_no+2)==null)
                                             {
                                                 flag=0;
-                                                temp2.set_time(courses.get(i),time_no);
-                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
-                                                temp2.set_time(courses.get(i),time_no+2); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no,s);
+                                                temp2.set_time(courses.get(i),time_no+1,s); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no+2,s); // it has to be changed later
                                                 temp2.update_load();
 
 
@@ -293,7 +293,7 @@ public class TimeTable {
                                         if(temp2.times.get(i1)==null)
                                         {
                                             flag=0;
-                                            temp2.set_time(courses.get(i),i1);
+                                            temp2.set_time(courses.get(i),i1,s);
                                             temp2.update_load();
     
                                         }
@@ -311,8 +311,8 @@ public class TimeTable {
                                                 if(temp2.times.get(i1)==null&&temp2.times.get(i1+1)==null)
                                                 {
                                                     flag=0;
-                                                    temp2.set_time(courses.get(i),i1);
-                                                    temp2.set_time(courses.get(i),i1+1); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),i1,s);
+                                                    temp2.set_time(courses.get(i),i1+1,s); // it has to be changed later
                                                     temp2.update_load();
     
                                                 }
@@ -329,9 +329,9 @@ public class TimeTable {
                                                 if(temp2.times.get(i1)==null&&temp2.times.get(i1+1)==null&&temp2.times.get(i1+2)==null)
                                                 {
                                                     flag=0;
-                                                    temp2.set_time(courses.get(i),i1);
-                                                    temp2.set_time(courses.get(i),i1+1); // it has to be changed later
-                                                    temp2.set_time(courses.get(i),i1+2); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),i1,s);
+                                                    temp2.set_time(courses.get(i),i1+1,s); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),i1+2,s); // it has to be changed later
                                                     temp2.update_load();
     
     
@@ -373,7 +373,7 @@ public class TimeTable {
                                         if(temp2.times.get(i1)==null)
                                         {
                                             flag=0;
-                                            temp2.set_time(courses.get(i),i1);
+                                            temp2.set_time(courses.get(i),i1,s);
                                             temp2.update_load();
     
                                         }
@@ -391,8 +391,8 @@ public class TimeTable {
                                                 if(temp2.times.get(i1)==null&&temp2.times.get(i1+1)==null)
                                                 {
                                                     flag=0;
-                                                    temp2.set_time(courses.get(i),i1);
-                                                    temp2.set_time(courses.get(i),i1+1); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),i1,s);
+                                                    temp2.set_time(courses.get(i),i1+1,s); // it has to be changed later
                                                     temp2.update_load();
     
                                                 }
@@ -409,9 +409,9 @@ public class TimeTable {
                                                 if(temp2.times.get(i1)==null&&temp2.times.get(i1+1)==null&&temp2.times.get(i1+2)==null)
                                                 {
                                                     flag=0;
-                                                    temp2.set_time(courses.get(i),i1);
-                                                    temp2.set_time(courses.get(i),i1+1); // it has to be changed later
-                                                    temp2.set_time(courses.get(i),i1+2); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),i1,s);
+                                                    temp2.set_time(courses.get(i),i1+1,s); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),i1+2,s); // it has to be changed later
                                                     temp2.update_load();
     
     
@@ -512,6 +512,7 @@ class week{
     String name;
     int day_no;
     Vector<myCourse> times=new Vector();
+    Vector<Integer> which_slot=new Vector();
     int load;
     week(String week_name,int n){
         name=week_name;
@@ -520,6 +521,7 @@ class week{
         for(int i=0;i<7;i++)
         {
             times.addElement(null);
+            which_slot.addElement(-1);
         }
         load=0;
 
@@ -538,8 +540,9 @@ class week{
         return -1;
         
     }
-    public void set_time(myCourse a,int x){
+    public void set_time(myCourse a,int x,int a1){
         this.times.set(x,a);
+        this.which_slot.set(x,a1);
     }
     public void update_load(){
         this.load+=1;
@@ -554,6 +557,9 @@ class week{
             if(this.times.get(i)!=null)
             {
                 this.times.get(i).print();
+                int ha=this.which_slot.get(i);
+                i+=this.times.get(i).time_slot.get(ha).time;
+                
                 
             }
             // else{
