@@ -1,6 +1,6 @@
 import static java.lang.Integer.MAX_VALUE;
 
-import java.io.*;
+// import java.io.*;
 import java.util.*;
 
 class myCourse {
@@ -162,6 +162,7 @@ public class TimeTable {
                                                 temp2.set_time(courses.get(i),time_no);
                                                 temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
                                                 temp2.set_time(courses.get(i),time_no+2); // it has to be changed later
+                                                temp2.update_load();
 
 
                                             }
@@ -179,6 +180,7 @@ public class TimeTable {
                                 }                          
                             }
                             //yet to add other days
+                            
                             time_start+=4;
                             if(time_start>=Time_pref.length())
                             pri=0;
@@ -277,14 +279,15 @@ class week{
         System.out.println(this.name);
         for(int i=0;i<7;i++)
         {
-            System.out.println(i);
+            // System.out.println(i);
             if(this.times.get(i)!=null)
             {
                 this.times.get(i).print();
+                
             }
-            else{
-                System.out.println();
-            }
+            // else{
+            //     System.out.println();
+            // }
         }
     }
 
