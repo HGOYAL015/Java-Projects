@@ -1,0 +1,117 @@
+Monday
+9:00-10:00 SMAT330C-MathsAnand
+10:00-11:00 IOOM332C-ObjectOrientedMethodologiesVyas
+3:00-6:00 IOOM332C-Lab-ObjectOrientedMethodologiesLabKala
+Tuesday
+9:00-11:00 ITOC330C-Tutorial-TheoryOfComputationTutorialManish
+12:15-1:15 IOPS332C-OperatingSystemJagpreet
+3:00-5:00 IOPS332C-OperatingSystemJagpreet
+Wednesday
+9:00-11:00 SMAT330C-MathsAnand
+11:15-1:15 ITOC330C-TheoryOfComputationManish
+3:00-6:00 EMIP332C-Lab-MicroprocessorLabArun
+Thursday
+9:00-10:00 EMIP332C-MicroprocessorArun
+11:15-12:15 ITOC330C-TheoryOfComputationManish
+3:00-5:00 IOOM332C-ObjectOrientedMethodologiesVyas
+Friday
+9:00-11:00 EMIP332C-MicroprocessorArun
+3:00-6:00 IOPS332C-Lab-OperatingSystemLabJagpreet
+Monday 1 0
+IOOM332C-ObjectOrientedMethodologies Vyas 1 2
+1 145 100003002 145 10000300
+Monday 4 0
+IOOM332C-Lab-ObjectOrientedMethodologiesLab Kala 2 1
+3 12 1000
+Monday 5 0
+IOOM332C-Lab-ObjectOrientedMethodologiesLab Kala 2 1
+3 12 1000
+Monday 6 0
+IOOM332C-Lab-ObjectOrientedMethodologiesLab Kala 2 1
+3 12 1000
+Monday 0 0
+SMAT330C-Maths Anand 3 2
+1 12 090010002 23 09001000
+Tuesday 4 0
+IOPS332C-OperatingSystem Jagpreet 4 2
+2 24 0300121511151 24 030012151115
+Tuesday 5 0
+IOPS332C-OperatingSystem Jagpreet 4 2
+2 24 0300121511151 24 030012151115
+Wednesday 2 0
+ITOC330C-TheoryOfComputation Manish 5 2
+2  11151  1115
+Wednesday 3 0
+ITOC330C-TheoryOfComputation Manish 5 2
+2  11151  1115
+Thursday 0 0
+EMIP332C-Microprocessor Arun 6 2
+1  2  
+Friday 4 0
+IOPS332C-Lab-OperatingSystemLab Jagpreet 7 1
+3  
+Friday 5 0
+IOPS332C-Lab-OperatingSystemLab Jagpreet 7 1
+3  
+Friday 6 0
+IOPS332C-Lab-OperatingSystemLab Jagpreet 7 1
+3  
+Wednesday 4 0
+EMIP332C-Lab-MicroprocessorLab Arun 8 1
+3 1 
+Wednesday 5 0
+EMIP332C-Lab-MicroprocessorLab Arun 8 1
+3 1 
+Wednesday 6 0
+EMIP332C-Lab-MicroprocessorLab Arun 8 1
+3 1 
+Tuesday 0 0
+ITOC330C-Tutorial-TheoryOfComputationTutorial Manish 9 1
+2  
+Tuesday 1 0
+ITOC330C-Tutorial-TheoryOfComputationTutorial Manish 9 1
+2  
+Thursday 4 1
+IOOM332C-ObjectOrientedMethodologies Vyas 1 2
+1 145 100003002 145 10000300
+Thursday 5 1
+IOOM332C-ObjectOrientedMethodologies Vyas 1 2
+1 145 100003002 145 10000300
+Wednesday 0 1
+SMAT330C-Maths Anand 3 2
+1 12 090010002 23 09001000
+Wednesday 1 1
+SMAT330C-Maths Anand 3 2
+1 12 090010002 23 09001000
+Tuesday 3 1
+IOPS332C-OperatingSystem Jagpreet 4 2
+2 24 0300121511151 24 030012151115
+Thursday 2 1
+ITOC330C-TheoryOfComputation Manish 5 2
+2  11151  1115
+Friday 0 1
+EMIP332C-Microprocessor Arun 6 2
+1  2  
+Friday 1 1
+EMIP332C-Microprocessor Arun 6 2
+1  2  
+Monday
+9:00-10:00 SMAT330C-MathsAnand
+10:00-11:00 IOOM332C-ObjectOrientedMethodologiesVyas
+3:00-6:00 IOOM332C-Lab-ObjectOrientedMethodologiesLabKala
+Tuesday
+9:00-11:00 ITOC330C-Tutorial-TheoryOfComputationTutorialManish
+12:15-1:15 IOPS332C-OperatingSystemJagpreet
+3:00-5:00 IOPS332C-OperatingSystemJagpreet
+Wednesday
+9:00-11:00 SMAT330C-MathsAnand
+11:15-1:15 ITOC330C-TheoryOfComputationManish
+3:00-6:00 EMIP332C-Lab-MicroprocessorLabArun
+Thursday
+9:00-10:00 EMIP332C-MicroprocessorArun
+11:15-12:15 ITOC330C-TheoryOfComputationManish
+3:00-5:00 IOOM332C-ObjectOrientedMethodologiesVyas
+Friday
+9:00-11:00 EMIP332C-MicroprocessorArun
+3:00-6:00 IOPS332C-Lab-OperatingSystemLabJagpreet
+Saturday
