@@ -3,86 +3,6 @@ import static java.lang.Integer.MAX_VALUE;
 import java.io.*;
 import java.util.*;
 
-public class TimeTable {
-    public static void main(String args[]) {
-        Scanner x = new Scanner(System.in);
-
-        int t = x.nextInt();
-        for (var kk = 0; kk < t; kk++) {
-            int no_course = x.nextInt();
-            x.nextLine();
-            Vector<myCourse> courses=new Vector();
-            int no_slots;
-            for (int i = 0; i < no_course; i++) {
-                System.out.println("Enter the Course,Instructor Name,Priority,No. of slots");
-               courses.add(new myCourse(x.next(), x.next(), x.next(),no_slots= x.nextInt()));
-               for(int j=0;j<no_slots;j++){
-                   System.out.println("Enter the time of slot,Day preference of slot,Time Preference of Slot");
-                   courses.get(i).addtimeslot(x.nextInt(),x.next(),x.next());
-               }
-            }
-            
-            
-            // Comparator<myCourse> comparator = new sortByPriority();
-            courses.sort(new sortByPriority());
-            Vector<myCourse> saturday=new Vector();
-            Vector<week> course_day=new Vector();
-            course_day.add(new week("Monday",1));
-            course_day.add(new week("Tuesday",2));
-            course_day.add(new week("Wednesday",3));
-            course_day.add(new week("Thursday",4));
-            course_day.add(new week("Friday",5));
-
-            int flag=1;
-
-            for (int i = 0; i < no_course; i++) {
-                courses.get(i).print();
-            }
-            while(flag==1){
-                for(int i=0;i<no_course;i++)
-                {
-                    week.sort(new sortByLoad());
-
-                }
-            }
-
-        }
-        x.close();
-    }
-}
-
-class sortByPriority implements Comparator<myCourse>
-{
-    // Used for sorting in ascending order of priority
-    public int compare(myCourse a, myCourse b)
-    {
-        return (a.priority - b.priority);
-    }
-}
-class sortByLoad implements Comparator<week>
-{
-    //sort week in ascending order of load
-    public int compare(week a,week b){
-        return (a.load-b.load);
-    }
-};
-
-
-
-
-class slots {
-    int time;
-    String d_pref, t_pref;
-
-    slots(int n,String a, String b) {
-        time = n;
-        d_pref = a;
-        t_pref = b;
-    }
-
-};
-
-
 class myCourse {
     String coursename, tchr_name;
     int priority;
@@ -124,8 +44,194 @@ class myCourse {
         System.out.println(info);
         System.out.println(j );
     }
+    public int get_slot(){
+        return this.no_slots;
+    }
 
 };
+
+public class TimeTable {
+    public static void main(String args[]) {
+        Scanner x = new Scanner(System.in);
+
+        int t = x.nextInt();
+        for (var kk = 0; kk < t; kk++) {
+            int no_course = x.nextInt();
+            x.nextLine();
+            Vector<myCourse> courses=new Vector();
+            int no_slo,max_slot=0;
+            for (int i = 0; i < no_course; i++) {
+                System.out.println("Enter the Course,Instructor Name,Priority,No. of slots");
+               courses.add(new myCourse(x.next(), x.next(), x.next(),no_slo= x.nextInt()));
+               if(max_slot<no_slo)
+               max_slot=no_slo;
+               for(int j=0;j<no_slo;j++){
+                   System.out.println("Enter the time of slot,Day preference of slot,Time Preference of Slot");
+                   courses.get(i).addtimeslot(x.nextInt(),x.next(),x.next());
+               }
+            }
+            
+            
+            // Comparator<myCourse> comparator = new sortByPriority();
+            courses.sort(new sortByPriority());
+            Vector<myCourse> saturday=new Vector();
+            Vector<week> course_day=new Vector();
+            course_day.add(new week("Monday",1));
+            course_day.add(new week("Tuesday",2));
+            course_day.add(new week("Wednesday",3));
+            course_day.add(new week("Thursday",4));
+            course_day.add(new week("Friday",5));
+
+
+            for (int i = 0; i < no_course; i++) {
+                courses.get(i).print();
+            }
+            // myCourse temp=new myCourse();
+            for(int s=0;s<max_slot;s++)
+            {
+                for(int i=0;i<no_course;i++)
+                {
+                    int flag=1;
+
+                   
+                    // course_day.sort(new sortByLoad());
+                    //now sorting week days acc.to priority
+                    
+                    int l=courses.get(i).get_slot();
+                    if(s<l)
+                    {
+                        slots temp1=courses.get(i).time_slot.get(s);
+                        String day=courses.get(i).time_slot.get(s).d_pref;
+                        int day_length=day.length();
+                        // System.out.println(day_length);
+                        // Vector<week> temporary=new Vector();
+                        int pri=1;
+                        while(flag==1 && pri==1)
+                        {
+                            int time_start=0;
+                            String Time_pref=temp1.t_pref;
+
+
+                            for(int j=0;j<day_length&&flag==1;j++)
+                            {
+                                String cc=day.substring(j,j+1);
+                                int h=Integer.parseInt(cc);
+                                // temporary.add(course_day.get(h-1));
+                                week temp2=course_day.get(h-1);
+                                String kkk=Time_pref.substring(time_start,time_start+4);
+                                int time_no=temp2.slot_time(kkk);
+                                if(temp1.time==1)
+                                {
+                                   
+                                    if(temp2.times.get(time_no)==null)
+                                    {
+                                        flag=0;
+                                        temp2.set_time(courses.get(i),time_no);
+                                    }
+
+
+                                }
+                                else
+                                {
+                                    if(temp1.time==2)
+                                    {
+                                        
+                                        System.out.println("Time slot is 2");
+                                        if(time_no==0||time_no==2||time_no==4||time_no==5)
+                                        {
+                                            if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null)
+                                            {
+                                                flag=0;
+                                                temp2.set_time(courses.get(i),time_no);
+                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+
+                                            }
+                                        }
+                                        // flag=0;
+                                    }
+                                    else
+                                    {
+                                        if(temp1.time==3)
+                                        {
+                                        System.out.println("Time slot is 3");
+                                        if(time_no==4)
+                                        {
+                                            if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null&&temp2.times.get(time_no+2)==null)
+                                            {
+                                                flag=0;
+                                                temp2.set_time(courses.get(i),time_no);
+                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no+2); // it has to be changed later
+
+
+                                            }
+                                        }
+                                        // flag=0;
+
+                                        }
+                                        else
+                                        {
+                                            System.out.println("Time slot is greater than 3");
+                                            saturday.add(courses.get(i));
+                                            flag=0;
+                                        }
+                                    }
+                                }                          
+                            }
+                            //yet to add other days
+                            time_start+=4;
+                            if(time_start>=Time_pref.length())
+                            pri=0;
+                        }
+                        
+
+                    }
+
+                }
+            }
+
+            for(int a=0;a<5;a++)
+
+            {
+                course_day.get(a).print();
+            }
+        }
+        x.close();
+    }
+}
+
+class sortByPriority implements Comparator<myCourse>
+{
+    // Used for sorting in ascending order of priority
+    public int compare(myCourse a, myCourse b)
+    {
+        return (a.priority - b.priority);
+    }
+}
+class sortByLoad implements Comparator<week>
+{
+    //sort week in ascending order of load
+    public int compare(week a,week b){
+        return (a.load-b.load);
+    }
+};
+
+
+
+
+class slots {
+    int time;
+    String d_pref, t_pref;
+
+    slots(int n,String a, String b) {
+        time = n;
+        d_pref = a;
+        t_pref = b;
+    }
+
+};
+
+
 
 //
 // i am working on starting hours if starting hours are occupied or not
@@ -158,6 +264,28 @@ class week{
         }
         return -1;
         
+    }
+    public void set_time(myCourse a,int x){
+        this.times.set(x,a);
+    }
+    public void update_load(){
+        this.load+=1;
+    }
+    public void print(){
+        // String jjj=name;
+
+        System.out.println(this.name);
+        for(int i=0;i<7;i++)
+        {
+            System.out.println(i);
+            if(this.times.get(i)!=null)
+            {
+                this.times.get(i).print();
+            }
+            else{
+                System.out.println();
+            }
+        }
     }
 
 };
