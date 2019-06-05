@@ -127,6 +127,8 @@ public class TimeTable {
                                     {
                                         flag=0;
                                         temp2.set_time(courses.get(i),time_no);
+                                        temp2.update_load();
+
                                     }
 
 
@@ -144,6 +146,7 @@ public class TimeTable {
                                                 flag=0;
                                                 temp2.set_time(courses.get(i),time_no);
                                                 temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+                                                temp2.update_load();
 
                                             }
                                         }
@@ -180,6 +183,83 @@ public class TimeTable {
                                 }                          
                             }
                             //yet to add other days
+                            Vector<week> temporary=new Vector();
+                            for(int j=0;j<7;j++)
+                            {
+                                String xxx=Integer.toString(j+1);
+                                if(Time_pref.indexOf(xxx)==-1)
+                                temporary.add(course_day.get(j));
+
+                            }
+                            temporary.sort(new sortByLoad());
+                            for(int j=0;j<temporary.size();j++)
+                            {
+                                week temp2=temporary.get(j);
+                                String kkk=Time_pref.substring(time_start,time_start+4);
+                                int time_no=temp2.slot_time(kkk);
+                                if(temp1.time==1)
+                                {
+                                   
+                                    if(temp2.times.get(time_no)==null)
+                                    {
+                                        flag=0;
+                                        temp2.set_time(courses.get(i),time_no);
+                                        temp2.update_load();
+
+                                    }
+
+
+                                }
+                                else
+                                {
+                                    if(temp1.time==2)
+                                    {
+                                        
+                                        System.out.println("Time slot is 2");
+                                        if(time_no==0||time_no==2||time_no==4||time_no==5)
+                                        {
+                                            if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null)
+                                            {
+                                                flag=0;
+                                                temp2.set_time(courses.get(i),time_no);
+                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+                                                temp2.update_load();
+
+                                            }
+                                        }
+                                        // flag=0;
+                                    }
+                                    else
+                                    {
+                                        if(temp1.time==3)
+                                        {
+                                        System.out.println("Time slot is 3");
+                                        if(time_no==4)
+                                        {
+                                            if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null&&temp2.times.get(time_no+2)==null)
+                                            {
+                                                flag=0;
+                                                temp2.set_time(courses.get(i),time_no);
+                                                temp2.set_time(courses.get(i),time_no+1); // it has to be changed later
+                                                temp2.set_time(courses.get(i),time_no+2); // it has to be changed later
+                                                temp2.update_load();
+
+
+                                            }
+                                        }
+                                        // flag=0;
+
+                                        }
+                                        else
+                                        {
+                                            System.out.println("Time slot is greater than 3");
+                                            saturday.add(courses.get(i));
+                                            flag=0;
+                                        }
+                                    }
+                                }
+                            }
+
                             
                             time_start+=4;
                             if(time_start>=Time_pref.length())
