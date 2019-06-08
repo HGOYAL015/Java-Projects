@@ -58,9 +58,10 @@ public class TimeTable {
         Scanner x = new Scanner(System.in);
 
         int t = x.nextInt();
+        x.nextLine();
+
         for (var kk = 0; kk < t; kk++) {
             int no_course = x.nextInt();
-            x.nextLine();
             Vector<myCourse> courses=new Vector();
             int no_slo,max_slot=0;
             String sample;
@@ -117,7 +118,7 @@ public class TimeTable {
                         int pri=1;
                         int time_start=0;
 
-                        while(flag==1 && pri==1 && time_start<Time_pref.length())
+                        while(flag==1 && time_start<Time_pref.length())
                         {
 
                             for(int j=0;j<day_length&&flag==1;j++)
@@ -177,9 +178,7 @@ public class TimeTable {
 
 
                                                 }
-                                            }
-                                        // flag=0;
-
+                                            }                                     
                                         }
                                         else
                                         {
@@ -197,8 +196,8 @@ public class TimeTable {
                             Vector<week> temporary=new Vector();
                             for(int j=0;j<5&&flag==1;j++)
                             {
-                                String xxx=Integer.toString(j+1);
-                                if(Time_pref.indexOf(xxx)==-1)
+                                String x5=Integer.toString(j+1);
+                                if(Time_pref.indexOf(x5)==-1)
                                 temporary.add(course_day.get(j));
 
                             }
@@ -246,19 +245,19 @@ public class TimeTable {
                                         if(temp1.time==3)
                                         {
                                         // System.out.println("Time slot is 3");
-                                        if(time_no==4)
-                                        {
-                                            if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null&&temp2.times.get(time_no+2)==null)
+                                            if(time_no==4)
                                             {
-                                                flag=0;
-                                                temp2.set_time(courses.get(i),time_no,s);
-                                                temp2.set_time(courses.get(i),time_no+1,s); // it has to be changed later
-                                                temp2.set_time(courses.get(i),time_no+2,s); // it has to be changed later
-                                                temp2.update_load();
+                                                if(temp2.times.get(time_no)==null&&temp2.times.get(time_no+1)==null&&temp2.times.get(time_no+2)==null)
+                                                {
+                                                    flag=0;
+                                                    temp2.set_time(courses.get(i),time_no,s);
+                                                    temp2.set_time(courses.get(i),time_no+1,s); // it has to be changed later
+                                                    temp2.set_time(courses.get(i),time_no+2,s); // it has to be changed later
+                                                    temp2.update_load();
 
 
+                                                }
                                             }
-                                        }
                                         // flag=0;
 
                                         }
@@ -331,19 +330,19 @@ public class TimeTable {
                                             if(temp1.time==3)
                                             {
                                             // System.out.println("Time slot is 3");
-                                            if(i1==4)
-                                            {
-                                                if(temp2.times.get(i1)==null&&temp2.times.get(i1+1)==null&&temp2.times.get(i1+2)==null)
+                                                if(i1==4)
                                                 {
-                                                    flag=0;
-                                                    temp2.set_time(courses.get(i),i1,s);
-                                                    temp2.set_time(courses.get(i),i1+1,s); // it has to be changed later
-                                                    temp2.set_time(courses.get(i),i1+2,s); // it has to be changed later
-                                                    temp2.update_load();
-    
-    
+                                                    if(temp2.times.get(i1)==null&&temp2.times.get(i1+1)==null&&temp2.times.get(i1+2)==null)
+                                                    {
+                                                        flag=0;
+                                                        temp2.set_time(courses.get(i),i1,s);
+                                                        temp2.set_time(courses.get(i),i1+1,s); // it has to be changed later
+                                                        temp2.set_time(courses.get(i),i1+2,s); // it has to be changed later
+                                                        temp2.update_load();
+        
+        
+                                                    }
                                                 }
-                                            }
                                             // flag=0;
     
                                             }
@@ -363,8 +362,8 @@ public class TimeTable {
                                 Vector<week> temporary1=new Vector();
                                 for(int j1=0;j1<5&&flag==1;j1++)
                                 {
-                                    String xxx1=Integer.toString(j1+1);
-                                    if(Time_pref.indexOf(xxx1)==-1)
+                                    String x51=Integer.toString(j1+1);
+                                    if(Time_pref.indexOf(x51)==-1)
                                     temporary1.add(course_day.get(j1));
     
                                 }
@@ -480,7 +479,7 @@ class sortByPriority implements Comparator<myCourse>
     {
         return (a.priority - b.priority);
     }
-}
+};
 class sortByLoad implements Comparator<week>
 {
     //sort week in ascending order of load
@@ -562,12 +561,12 @@ class week{
     }
     public void set_time(myCourse a,int x,int a1){
         // System.out.println(this.name+" "+x+" "+a1);
-        a.print();
+        // a.print();
         this.times.set(x,a);
         this.which_slot.set(x,a1);
     }
     public void update_load(){
-        this.load+=1;
+        this.load=this.load+1;
     }
     public void print(){
         // String jjj=name;
