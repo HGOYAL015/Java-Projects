@@ -44,8 +44,8 @@ class myCourse {
         {
             j+=String.format("%d %s %s", time_slot.get(i).time,time_slot.get(i).d_pref,time_slot.get(i).t_pref);
         }
-        System.out.println(info);
-        System.out.println(j );
+        // System.out.println(info);
+        // System.out.println(j );
     }
     public int get_slot(){
         return this.no_slots;
@@ -561,7 +561,7 @@ class week{
         
     }
     public void set_time(myCourse a,int x,int a1){
-        System.out.println(this.name+" "+x+" "+a1);
+        // System.out.println(this.name+" "+x+" "+a1);
         a.print();
         this.times.set(x,a);
         this.which_slot.set(x,a1);
@@ -584,7 +584,7 @@ class week{
 
                 int ll=this.times.get(i).time_slot.get(ha).time;
                 
-                String NAME=this.times.get(i).coursename+this.times.get(i).tchr_name;
+                String NAME=this.times.get(i).coursename+" "+this.times.get(i).tchr_name;
                 String ans;
                 if(i==0)
                 {
