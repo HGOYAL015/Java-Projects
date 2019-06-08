@@ -12,11 +12,12 @@ class myCourse {
 
     }
 
-    myCourse(String a, String b, String c, int n) {
+    myCourse(String s) {
 
-        coursename = a;
-        tchr_name = b;
-
+        String []  all=s.split(" ");
+        coursename = all[0]+" "+all[1];
+        tchr_name = all[2];
+        String c=all[3];
         if (c.compareToIgnoreCase("NIL")==0){
             priority = MAX_VALUE;
             // System.out.println("sssss");
@@ -24,13 +25,15 @@ class myCourse {
         else{
             priority = Integer.parseInt(c);
         }
-        no_slots = n;
+        no_slots = Integer.parseInt(all[4]);
        
 
     }
-    public void addtimeslot(int n,String a,String b)
+    public void addtimeslot(String s)
     {
-        time_slot.add(new slots(n,a,b));
+        
+        
+        time_slot.add(new slots(s));
     }
 
     public void print() {
@@ -60,14 +63,18 @@ public class TimeTable {
             x.nextLine();
             Vector<myCourse> courses=new Vector();
             int no_slo,max_slot=0;
+            String sample;
             for (int i = 0; i < no_course; i++) {
                 // System.out.println("Enter the Course,Instructor Name,Priority,No. of slots");
-               courses.add(new myCourse(x.next(), x.next(), x.next(),no_slo= x.nextInt()));
+
+               courses.add(new myCourse(sample=x.nextLine()));
+               String [] s=sample.split(" ");
+               no_slo=Integer.parseInt(s[4]);
                if(max_slot<no_slo)
                max_slot=no_slo;
                for(int j=0;j<no_slo;j++){
                 //    System.out.println("Enter the time of slot,Day preference of slot,Time Preference of Slot");
-                   courses.get(i).addtimeslot(x.nextInt(),x.next(),x.next());
+                   courses.get(i).addtimeslot(x.nextLine());
                }
             }
             
@@ -497,20 +504,21 @@ class slots {
     int time;
     String d_pref, t_pref;
 
-    slots(int n,String a, String b) {
-        time = n;
-        if (a.compareToIgnoreCase("NIL")==0){
+    slots(String s) {
+        String [] all=s.split(" ");
+        time = Integer.parseInt(all[0]);
+        if (all[1].compareToIgnoreCase("NIL")==0){
             d_pref="";
         }
         else{
-        d_pref=a;
+        d_pref=all[1];
         }
 
-        if (b.compareToIgnoreCase("NIL")==0){
+        if (all[2].compareToIgnoreCase("NIL")==0){
             t_pref="";
         }
         else{
-        t_pref = b;
+        t_pref = all[2];
         }
     }
 
